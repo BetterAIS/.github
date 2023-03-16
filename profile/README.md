@@ -9,7 +9,7 @@
 - Framework: FastAPI
 - Web Server: uvicorn
 ## Clients:
-### [DAIS](https://github.com/BetterAIS/DAIS)
+### [DesktopAIS](https://github.com/BetterAIS/DesktopAIS)
 > Requirements: [VAVA_JAVA](https://github.com/miroslav-reiter/VAVA_JAVA/#stru%C4%8Dn%C3%A1-osnova-predmetu)
 - Language: Java
 
