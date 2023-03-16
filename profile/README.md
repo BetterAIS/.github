@@ -12,7 +12,11 @@
 ### [DesktopAIS](https://github.com/BetterAIS/DesktopAIS)
 > Requirements: [VAVA_JAVA](https://github.com/miroslav-reiter/VAVA_JAVA/#stru%C4%8Dn%C3%A1-osnova-predmetu)
 - Language: Java
-
+- Interface lib: [JavaFX](https://openjfx.io/)
+- Build System: Maven
+- Database Driver: JDBC
+- Http Client: OkHttpClient
+- Internal Database: Sqlite
 
 # Roles
 ## [Illia Chaban](https://github.com/ic-it)
