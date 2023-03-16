@@ -1,7 +1,7 @@
 # BetterAIS
 > Redesign and improvement of AIS. Create an alternative client for AIS.
 
-# Stack
+# Technology Stack
 ## Database:
 - PostgreSQL
 ## Backend
