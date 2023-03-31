@@ -16,7 +16,7 @@
 - Build System: Maven
 - Database Driver: JDBC
 - Http Client: OkHttpClient
-- Internal Database: Sqlite
+- Application Cache Database: Sqlite
 
 # Roles
 ## [Illia Chaban](https://github.com/ic-it)
