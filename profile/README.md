@@ -23,8 +23,3 @@
 - Leader
 - IT architect
 - Programmer
-
-## [Artem Shtepa](https://github.com/ashtepa)
-- SW tester
-- Programmer
-- Designer
